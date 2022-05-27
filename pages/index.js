@@ -3,7 +3,7 @@ import Image from 'next/image';
 import styles from '../styles/Home.module.css';
 import Layout, { siteTitle } from '../components/Layout';
 
-import Link from 'next/Link';
+import Link from 'next/link';
 import utilStyles from '../styles/utils.module.css';
 import { getPostsData } from '../lib/post';
 
